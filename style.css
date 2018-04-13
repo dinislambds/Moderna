@@ -1,0 +1,58 @@
+/*
+Theme Name: Moderna Theme
+Theme URI: https://moderna-theme.com/themes/
+Author: the Moderna team
+Author URI: https://moderna.com/
+Description: Moderna Theme  brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.ceo.com/licenses/gpl-2.0.html
+Text Domain: moderna
+Tags: moderna-theme, business-theme, blog, one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+.widget ul {
+	list-style: none;
+	margin-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.box-gray.aligncenter {
+	margin-bottom: 20px;
+}
+
+.screen-reader-text {
+	display: none;
+}
+body {	
+	line-height: 2.6em;
+}
+.tagcloud a {
+	padding: 5px;
+	margin: 4px;
+	background: #e6e6e6;
+	margin-bottom: 10px;
+	color: #333;
+	font-weight: 400;
+}
+.tagcloud a:hover {
+background-color: #68A4C4;
+}
+.widget ul li a {
+	color: #333;
+	font-weight: bold;
+	padding: 3px 0;
+	margin: 5px 0;
+}
+.widget ul li a:hover {
+	background-color: #68A4C4;
+	
+}
+
+.box {
+	margin-bottom: 30px;
+}
